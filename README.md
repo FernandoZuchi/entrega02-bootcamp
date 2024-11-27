@@ -17,7 +17,7 @@ O Sistema de Comentários e Respostas será uma aplicação web estruturada em A
  - Responder a comentários já existentes.
  - Editar ou excluir seus próprios comentários e respostas.
  - Visualizar detalhes completos de um comentário, incluindo todas as suas respostas.
- - 
+   
 O sistema deve refletir as práticas aprendidas nos módulos anteriores, com foco na aplicação prática e no aprendizado.
 
 ## Requisitos do Projeto
@@ -98,21 +98,15 @@ Formulário para criação de um comentário principal, com os campos:
 ## Checklist 📝
 
  - Abaixo temos uma checklist de requisitos/funcionalidades que vocês deven cumprir, usem isso para auxiliar na organização do passo a passo de desenvolvimento desse sistema
- - 
-[ ] Listar comentários principais e suas respostas.	
-[ ] Criar novo comentário.	
-[ ] Responder a um comentário existente.	
-[ ] Editar comentários ou respostas.	
-[ ] Excluir comentários ou respostas.	
-[ ] Visualizar detalhes de um comentário com respostas.
 
 |     | Descrição                  |
 | --- | -------------------------- |
 | [ ] | Listar comentários principais e suas respostas          |  
 | [ ] | Criar um novo comentário |
 | [ ] | Responder a um comentário existente.    |    
-| [ ] | Remover ticket       | 
-| [ ] | Visualizar detalhes do ticket    |   
+| [ ] | Editar comentários ou respostas.      | 
+| [ ] | Excluir comentários ou respostas. |
+| [ ] | Vizualizar detalhes de um comentário com respostas |
 
 ## Entrega
  - Prazo: O repositório estará aberto para commits até o dia 16/12 às 12:00
